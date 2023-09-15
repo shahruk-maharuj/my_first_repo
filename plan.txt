@@ -1,0 +1,14 @@
+# Checklist for the Express Project Initial Setup
+
+- [ ] **1. Git Setup**
+- [ ] **2. Node Version Manager Setup**
+- [ ] **3. TypeScript Setup**
+- [ ] **4. Prettier Setup**
+- [ ] **5. ESLint Setup**
+- [ ] **6. Git Hooks Setup**
+- [ ] **7. Application Config Setup**
+- [ ] **8. ExpressJs App Setup**
+- [ ] **9. Logger Setup**
+- [ ] **10. Error Handling Setup**
+- [ ] **11. Tests Setup**
+- [ ] **12. Create Template**
