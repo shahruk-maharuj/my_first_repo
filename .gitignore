@@ -1,2 +1,5 @@
 # ignore secrets file
 secrets.txt
+
+# for cache
+cache/
